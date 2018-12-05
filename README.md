@@ -1,2 +1,2 @@
 # JavaMultithreading
-Java多线程核心技术_读书笔记
+Java并发编程实战_读书笔记
